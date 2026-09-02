@@ -1,0 +1,9 @@
+/* A quieter, chapter-first type scale. */
+.hero h1{font-size:clamp(3.8rem,5.6vw,6.4rem);line-height:.86;letter-spacing:-.025em}
+.hero h1 em{font-size:.82em;line-height:.94;letter-spacing:-.035em}
+.section h2,.contact h2,.service h2{font-size:clamp(3rem,5.1vw,5.2rem);line-height:.88;letter-spacing:-.02em}
+.pillar-list h3{font-size:clamp(2.5rem,4vw,4.2rem)}
+.timeline h3{font-size:2rem}.event h3{font-size:clamp(1.8rem,2.8vw,2.6rem)}
+.hero-lead{max-width:610px;font-size:clamp(1.05rem,1.45vw,1.32rem)}
+.intro-grid,.history-head,.pillars-head,.recruit-grid,.contact-grid,.roles-head,.events-head{gap:clamp(38px,6vw,90px)}
+@media(max-width:560px){.hero h1{font-size:clamp(3.3rem,15vw,4.5rem)}.hero h1 em{font-size:.78em}.section h2,.contact h2,.service h2{font-size:clamp(2.8rem,13vw,3.8rem)}}
