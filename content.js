@@ -14,7 +14,7 @@ const chapterRoles=[
 {title:"Chapter Advisor",name:"To be confirmed",description:"Provides continuity, mentorship, and guidance to undergraduate leadership."}
 ];
 const upcomingEvents=[
-{month:"TBA",day:"—",title:"Fall Recruitment",type:"Recruitment",location:"Alpha Omicron Chapter House",description:"Meet the brothers and learn about the Southwestern PIKE experience.",link:"mailto:southwesternpike@gmail.com?subject=Fall%20Recruitment"},
-{month:"TBA",day:"—",title:"Fireman’s Challenge",type:"Philanthropy",location:"Southwestern University",description:"Alpha Omicron’s fall signature event supporting service and community involvement.",link:"mailto:southwesternpike@gmail.com?subject=Fireman%27s%20Challenge"},
-{month:"TBA",day:"—",title:"Annual Crawfish Boil",type:"Chapter Tradition",location:"Georgetown, Texas",description:"A spring tradition bringing together brothers, friends, alumni, and community.",link:"mailto:southwesternpike@gmail.com?subject=Crawfish%20Boil"}
+{month:"TBA",day:"—",title:"Fall Recruitment",type:"Recruitment",location:"Alpha Omicron Chapter House",description:"Meet the brothers and learn about the Southwestern PIKE experience.",link:"https://www.instagram.com/southwesternpike/"},
+{month:"TBA",day:"—",title:"Fireman’s Challenge",type:"Philanthropy",location:"Southwestern University",description:"Alpha Omicron’s fall signature event supporting service and community involvement.",link:"https://www.instagram.com/southwesternpike/"},
+{month:"TBA",day:"—",title:"Annual Crawfish Boil",type:"Chapter Tradition",location:"Georgetown, Texas",description:"A spring tradition bringing together brothers, friends, alumni, and community.",link:"https://www.instagram.com/southwesternpike/"}
 ];
