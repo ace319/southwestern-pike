@@ -2,6 +2,10 @@
 .history-details>summary{display:flex;padding:20px 24px;justify-content:space-between;align-items:center;cursor:pointer;list-style:none;font:700 .9rem var(--display);letter-spacing:.08em;text-transform:uppercase}
 .history-details>summary::-webkit-details-marker{display:none}.history-details>summary b{color:var(--gold)}.history-details[open]>summary b{font-size:0}.history-details[open]>summary b:after{content:"Close −";font:700 .9rem var(--display)}
 .history-details .timeline{margin:0;padding:14px;border-top:1px solid #ffffff45}.history-details .timeline li{margin:0}.history-details .timeline .reveal{opacity:1;transform:none}.history-details:not([open]) .timeline{display:none}
+.history-details .timeline li:nth-child(1),.history-details .timeline li:nth-child(4){color:var(--ink)}
+.history-details .timeline li:nth-child(1) h3,.history-details .timeline li:nth-child(4) h3{color:var(--garnet-dark)}
+.history-details .timeline li:nth-child(1) p,.history-details .timeline li:nth-child(4) p{color:#4f4140}
+.history-details .timeline li:nth-child(1) time,.history-details .timeline li:nth-child(4) time{color:rgba(101,21,34,.24)}
 
 .hero-copy{min-width:0;overflow:hidden}
 .hero h1{width:100%;max-width:100%;font-size:clamp(4.5rem,7.2vw,7.8rem);line-height:.78}
