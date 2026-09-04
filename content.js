@@ -6,7 +6,7 @@ const chapterRoles=[
 {title:"Membership Development Vice President",name:"John Paul Wrockloff",image:"assets/leadership/john-paul-wrockloff.jpg",description:"Guides member education, personal development, and preparation for active chapter membership."},
 {title:"Treasurer",name:"To be confirmed",description:"Oversees budgeting, dues, financial planning, and responsible chapter stewardship."},
 {title:"Secretary",name:"To be confirmed",description:"Maintains chapter records, meeting minutes, calendars, and official communication."},
-{title:"Recruitment Chair",name:"To be confirmed",description:"Organizes recruitment and helps prospective members get to know the chapter."},
+{title:"Head of Recruitment",name:"Bobby Strauss",description:"Leads recruitment strategy and helps prospective members connect with Alpha Omicron."},
 {title:"Scholarship Chair",name:"To be confirmed",description:"Supports academic achievement through resources, mentoring, and accountability."},
 {title:"Philanthropy Chair",name:"To be confirmed",description:"Plans service and fundraising efforts with Georgetown community partners."},
 {title:"Alumni Relations Chair",name:"To be confirmed",description:"Strengthens lifelong connections between undergraduate members and Alpha Omicron alumni."},
@@ -18,4 +18,19 @@ const upcomingEvents=[
 {month:"TBA",day:"—",title:"Fall Recruitment",type:"Recruitment",location:"Alpha Omicron Chapter House",description:"Meet the brothers and learn about the Southwestern PIKE experience.",link:"https://www.instagram.com/southwesternpike/"},
 {month:"TBA",day:"—",title:"Fireman’s Challenge",type:"Philanthropy",location:"Southwestern University",description:"Alpha Omicron’s fall signature event supporting service and community involvement.",link:"https://www.instagram.com/southwesternpike/"},
 {month:"TBA",day:"—",title:"Annual Crawfish Boil",type:"Chapter Tradition",location:"Georgetown, Texas",description:"A spring tradition bringing together brothers, friends, alumni, and community.",link:"https://www.instagram.com/southwesternpike/"}
+];
+
+const recruitmentTeam=[
+{name:"Bobby Strauss",role:"Head of Recruitment",region:"Chapter-wide",instagram:"bobbystrauss44",phone:"214-914-7714"},
+{name:"Luke Lawhon",role:"Vice President of Recruitment",region:"Chapter-wide",instagram:"luke.lawhon_",phone:"915-242-7725",image:"assets/leadership/luke-lawhon.jpg"},
+{name:"Jeremiah Wilkins",role:"Vice President of Recruitment",region:"Chapter-wide",instagram:"jeremiahwilkins_",phone:"712-703-6204"},
+{name:"Alex Melillo",role:"Vice President of Recruitment",region:"Chapter-wide",instagram:"alex.melillo",phone:"832-226-3622"},
+{name:"Lane McCranie",role:"Recruitment Contact",region:"Dallas",instagram:"mccranielane",phone:"901-585-8756"},
+{name:"Jeffery Jordan",role:"Recruitment Contact",region:"Dallas",instagram:"jeffreyjordan._",phone:"918-629-2546"},
+{name:"Sam Segura",role:"Recruitment Contact",region:"Austin",instagram:"samsegura50",phone:"512-784-3341"},
+{name:"Ricky Mitchell",role:"Recruitment Contact",region:"San Antonio",instagram:"littlerick4",phone:"210-585-6451",image:"assets/leadership/ricky-mitchell.jpg"},
+{name:"Zachary Faubion",role:"Recruitment Contact",region:"San Antonio",instagram:"zachfaub",phone:"210-427-2880",image:"assets/leadership/zachary-faubion-president.png"},
+{name:"Will Sullivan",role:"Recruitment Contact",region:"Houston",instagram:"will_sully0",phone:"832-367-7782"},
+{name:"Jameer Martin",role:"Recruitment Contact",region:"Houston",instagram:"jameermartin",phone:"951-901-3801"},
+{name:"Jake Trailer",role:"Recruitment Contact",region:"Out of State",instagram:"jake_trailer",phone:"650-250-2160"}
 ];

@@ -1,0 +1,17 @@
+.recruitment-directory{margin-top:90px;padding-top:55px;border-top:5px solid var(--garnet)}
+.directory-heading{display:grid;grid-template-columns:1fr 1fr;gap:24px 8vw;align-items:end}
+.directory-heading .kicker{grid-column:1/-1;margin:0}
+.directory-heading h3{margin:0;font:800 clamp(3rem,6vw,6rem)/.9 var(--display);text-transform:uppercase}
+.directory-heading>p:last-child{max-width:560px;margin:0;color:var(--muted);font-size:1.05rem}
+.recruitment-team{display:grid;margin-top:45px;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+.recruitment-card{display:grid;min-width:0;overflow:hidden;border:2px solid var(--garnet);background:#fffaf0;grid-template-columns:115px 1fr}
+.recruitment-card img,.recruitment-initials{width:115px;height:100%;min-height:190px;object-fit:cover;object-position:center top}
+.recruitment-initials{display:grid;color:var(--gold);background:var(--garnet-dark);place-items:center;font:800 2.5rem var(--display)}
+.recruitment-card-copy{display:flex;min-width:0;padding:20px;align-items:flex-start;flex-direction:column}
+.recruitment-card-copy span{color:var(--garnet);font:800 .72rem var(--display);letter-spacing:.1em;text-transform:uppercase}
+.recruitment-card-copy h4{margin:6px 0 0;font:800 1.65rem/1 var(--display);text-transform:uppercase}
+.recruitment-card-copy p{margin:7px 0 15px;color:var(--muted);font-size:.75rem;line-height:1.35}
+.recruitment-card-copy a{margin-top:5px;color:var(--garnet-dark);font:700 .76rem var(--body);overflow-wrap:anywhere}
+@media(max-width:1050px){.recruitment-team{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:700px){.directory-heading{grid-template-columns:1fr}.recruitment-team{grid-template-columns:1fr}}
+@media(max-width:420px){.recruitment-card{grid-template-columns:95px 1fr}.recruitment-card img,.recruitment-initials{width:95px}.recruitment-card-copy{padding:16px}}
