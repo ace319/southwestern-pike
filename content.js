@@ -6,7 +6,7 @@ const chapterRoles=[
 {title:"Membership Development Vice President",name:"John Paul Wrockloff",image:"assets/leadership/john-paul-wrockloff.jpg",description:"Guides member education, personal development, and preparation for active chapter membership."},
 {title:"Treasurer",name:"To be confirmed",description:"Oversees budgeting, dues, financial planning, and responsible chapter stewardship."},
 {title:"Secretary",name:"To be confirmed",description:"Maintains chapter records, meeting minutes, calendars, and official communication."},
-{title:"Head of Recruitment",name:"Bobby Strauss",image:"assets/official/athletics/bobby-strauss.png",description:"Leads recruitment strategy and helps prospective members connect with Alpha Omicron."},
+{title:"Head of Recruitment",name:"Bobby Strauss",image:"assets/leadership/bobby-strauss.jpg",description:"Leads recruitment strategy and helps prospective members connect with Alpha Omicron."},
 {title:"Scholarship Chair",name:"To be confirmed",description:"Supports academic achievement through resources, mentoring, and accountability."},
 {title:"Philanthropy Chair",name:"To be confirmed",description:"Plans service and fundraising efforts with Georgetown community partners."},
 {title:"Alumni Relations Chair",name:"To be confirmed",description:"Strengthens lifelong connections between undergraduate members and Alpha Omicron alumni."},
@@ -21,7 +21,7 @@ const upcomingEvents=[
 ];
 
 const recruitmentTeam=[
-{name:"Bobby Strauss",role:"Head of Recruitment",region:"Chapter-wide",instagram:"bobbystrauss44",phone:"214-914-7714",image:"assets/recruitment/bobby-strauss.jpg",crop:"336%",cropLeft:"-39%",cropTop:"-42%"},
+{name:"Bobby Strauss",role:"Head of Recruitment",region:"Chapter-wide",instagram:"bobbystrauss44",phone:"214-914-7714",image:"assets/leadership/bobby-strauss.jpg"},
 {name:"Luke Lawhon",role:"Vice President of Recruitment",region:"Chapter-wide",instagram:"luke.lawhon_",phone:"915-242-7725",image:"assets/leadership/luke-lawhon.jpg"},
 {name:"Jeremiah Wilkins",role:"Vice President of Recruitment",region:"Chapter-wide",instagram:"jeremiahwilkins_",phone:"712-703-6204",image:"assets/recruitment/vice-presidents.jpg",crop:"517%",cropLeft:"-210%",cropTop:"-65%"},
 {name:"Alex Melillo",role:"Vice President of Recruitment",region:"Chapter-wide",instagram:"alex.melillo",phone:"832-226-3622",image:"assets/recruitment/vice-presidents.jpg",crop:"517%",cropLeft:"-388%",cropTop:"-65%"},
