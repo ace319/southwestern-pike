@@ -23,14 +23,14 @@ const upcomingEvents=[
 const recruitmentTeam=[
 {name:"Bobby Strauss",role:"Head of Recruitment",region:"Chapter-wide",instagram:"bobbystrauss44",phone:"214-914-7714",image:"assets/leadership/bobby-strauss.jpg"},
 {name:"Luke Lawhon",role:"Vice President of Recruitment",region:"Chapter-wide",instagram:"luke.lawhon_",phone:"915-242-7725",image:"assets/leadership/luke-lawhon.jpg"},
-{name:"Jeremiah Wilkins",role:"Vice President of Recruitment",region:"Chapter-wide",instagram:"jeremiahwilkins_",phone:"712-703-6204",image:"assets/recruitment/vice-presidents.jpg",crop:"517%",cropLeft:"-210%",cropTop:"-65%"},
-{name:"Alex Melillo",role:"Vice President of Recruitment",region:"Chapter-wide",instagram:"alex.melillo",phone:"832-226-3622",image:"assets/recruitment/vice-presidents.jpg",crop:"517%",cropLeft:"-388%",cropTop:"-65%"},
-{name:"Lane McCranie",role:"Recruitment Contact",region:"Dallas",instagram:"mccranielane",phone:"901-585-8756",image:"assets/recruitment/dallas.jpg",crop:"586%",cropLeft:"-98%",cropTop:"-133%"},
-{name:"Jeffery Jordan",role:"Recruitment Contact",region:"Dallas",instagram:"jeffreyjordan._",phone:"918-629-2546",image:"assets/recruitment/dallas.jpg",crop:"586%",cropLeft:"-363%",cropTop:"-133%"},
-{name:"Sam Segura",role:"Recruitment Contact",region:"Austin",instagram:"samsegura50",phone:"512-784-3341",image:"assets/recruitment/austin.jpg",crop:"355%",cropLeft:"-41%",cropTop:"-84%"},
+{name:"Jeremiah Wilkins",role:"Vice President of Recruitment",region:"Chapter-wide",instagram:"jeremiahwilkins_",phone:"712-703-6204",image:"assets/recruitment/jeremiah-wilkins.jpg"},
+{name:"Alex Melillo",role:"Vice President of Recruitment",region:"Chapter-wide",instagram:"alex.melillo",phone:"832-226-3622",image:"assets/recruitment/alex-melillo.jpg"},
+{name:"Lane McCranie",role:"Recruitment Contact",region:"Dallas",instagram:"mccranielane",phone:"901-585-8756",image:"assets/recruitment/lane-mccranie.jpg"},
+{name:"Jeffery Jordan",role:"Recruitment Contact",region:"Dallas",instagram:"jeffreyjordan._",phone:"918-629-2546",image:"assets/recruitment/jeffery-jordan.jpg"},
+{name:"Sam Segura",role:"Recruitment Contact",region:"Austin",instagram:"samsegura50",phone:"512-784-3341",image:"assets/recruitment/sam-segura.jpg"},
 {name:"Ricky Mitchell",role:"Recruitment Contact",region:"San Antonio",instagram:"littlerick4",phone:"210-585-6451",image:"assets/leadership/ricky-mitchell.jpg"},
 {name:"Zachary Faubion",role:"Recruitment Contact",region:"San Antonio",instagram:"zachfaub",phone:"210-427-2880",image:"assets/leadership/zachary-faubion-president.png"},
-{name:"Will Sullivan",role:"Recruitment Contact",region:"Houston",instagram:"will_sully0",phone:"832-367-7782",image:"assets/recruitment/houston.jpg",crop:"581%",cropLeft:"-96%",cropTop:"-134%"},
-{name:"Jameer Martin",role:"Recruitment Contact",region:"Houston",instagram:"jameermartin",phone:"951-901-3801",image:"assets/recruitment/houston.jpg",crop:"581%",cropLeft:"-393%",cropTop:"-134%"},
-{name:"Jake Trailer",role:"Recruitment Contact",region:"Out of State",instagram:"jake_trailer",phone:"650-250-2160",image:"assets/recruitment/out-of-state.jpg",crop:"391%",cropLeft:"-50%",cropTop:"-106%"}
+{name:"Will Sullivan",role:"Recruitment Contact",region:"Houston",instagram:"will_sully0",phone:"832-367-7782",image:"assets/recruitment/will-sullivan.jpg"},
+{name:"Jameer Martin",role:"Recruitment Contact",region:"Houston",instagram:"jameermartin",phone:"951-901-3801",image:"assets/recruitment/jameer-martin.jpg"},
+{name:"Jake Trailer",role:"Recruitment Contact",region:"Out of State",instagram:"jake_trailer",phone:"650-250-2160",image:"assets/recruitment/jake-trailer.jpg"}
 ];
