@@ -7,7 +7,18 @@ allAthletePeople.push(
 ["Corbin Comiskey","Lacrosse · Defense","assets/official/athletics/corbin-comiskey.webp","https://southwesternpirates.com/sports/mens-lacrosse/roster/corbin-comiskey/7643"],
 ["Nolan Zaby","Lacrosse · Midfield","assets/official/athletics/nolan-zaby.webp","https://southwesternpirates.com/sports/mens-lacrosse/roster/nolan-zaby/7640"],
 ["Jackson Maddox","Lacrosse · Attack","assets/official/athletics/jackson-maddox.webp","https://southwesternpirates.com/sports/mens-lacrosse/roster/jackson-maddox/7644"],
-["Diego Herrera","Lacrosse · Defense","assets/official/athletics/diego-herrera.webp","https://southwesternpirates.com/sports/mens-lacrosse/roster/diego-herrera/7621"]
+["Diego Herrera","Lacrosse · Defense","assets/official/athletics/diego-herrera.webp","https://southwesternpirates.com/sports/mens-lacrosse/roster/diego-herrera/7621"],
+["Marshall Mohun","Lacrosse · Attack","assets/official/athletics/marshall-mohun.webp","https://southwesternpirates.com/sports/mens-lacrosse/roster/marshall-mohun/7646"],
+["Campbell Duke","Lacrosse · LSM","assets/official/athletics/campbell-duke.webp","https://southwesternpirates.com/sports/mens-lacrosse/roster/campbell-duke/7648"],
+["Abram Gareis","Lacrosse · Midfield","assets/official/athletics/abram-gareis.webp","https://southwesternpirates.com/sports/mens-lacrosse/roster/abram-gareis/7650"],
+["Zach Hendreks","Lacrosse · Midfield","assets/official/athletics/zach-hendreks.webp","https://southwesternpirates.com/sports/mens-lacrosse/roster/zach-hendreks/7651"],
+["Gaetan Avicolli","Lacrosse · Attack","assets/official/athletics/gaetan-avicolli.webp","https://southwesternpirates.com/sports/mens-lacrosse/roster/gaetan-avicolli/7653"],
+["Matt Fair","Lacrosse · Midfield","assets/official/athletics/matt-fair.webp","https://southwesternpirates.com/sports/mens-lacrosse/roster/matt-fair/7655"],
+["Dylan Mackie","Lacrosse · Midfield","assets/official/athletics/dylan-mackie.webp","https://southwesternpirates.com/sports/mens-lacrosse/roster/dylan-mackie/7656"],
+["Dylan Knighten","Lacrosse · Midfield","assets/official/athletics/dylan-knighten.webp","https://southwesternpirates.com/sports/mens-lacrosse/roster/dylan-knighten/7657"],
+["Carson Elder","Golf","assets/official/athletics/carson-elder.jpg","https://southwesternpirates.com/sports/mens-golf/roster/carson-elder/8067"],
+["Santiago Melendez","Swimming · Breaststroke","assets/official/athletics/santiago-melendez.webp","https://southwesternpirates.com/sports/mens-swimming-and-diving/roster/santiago-melendez/7825"],
+["Amani Singh","Swimming · Sprinter / Fly / Backstroke","assets/official/athletics/amani-singh.webp","https://southwesternpirates.com/sports/mens-swimming-and-diving/roster/amani-singh/7804"]
 );
 const formerAthletes=new Set(["Evan Collazo","Garrett Guinn","Andrew Renninger","Owen Rodrigue","Ethan Bridges","Santiago Cuevas Gonzalez","Matthew Houtz","Jackson Strauser","Chris Steffek","Matthew Swandal","Raul Najera","Bobby Strauss"]);
 const athletePeople=allAthletePeople.filter(([name])=>!formerAthletes.has(name));
