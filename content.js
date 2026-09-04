@@ -6,7 +6,7 @@ const chapterRoles=[
 {title:"Membership Development Vice President",name:"John Paul Wrockloff",image:"assets/leadership/john-paul-wrockloff.jpg",description:"Guides member education, personal development, and preparation for active chapter membership."},
 {title:"Treasurer",name:"To be confirmed",description:"Oversees budgeting, dues, financial planning, and responsible chapter stewardship."},
 {title:"Secretary",name:"To be confirmed",description:"Maintains chapter records, meeting minutes, calendars, and official communication."},
-{title:"Head of Recruitment",name:"Bobby Strauss",description:"Leads recruitment strategy and helps prospective members connect with Alpha Omicron."},
+{title:"Head of Recruitment",name:"Bobby Strauss",image:"assets/recruitment/bobby-strauss.jpg",crop:"336%",cropLeft:"-39%",cropTop:"-32%",description:"Leads recruitment strategy and helps prospective members connect with Alpha Omicron."},
 {title:"Scholarship Chair",name:"To be confirmed",description:"Supports academic achievement through resources, mentoring, and accountability."},
 {title:"Philanthropy Chair",name:"To be confirmed",description:"Plans service and fundraising efforts with Georgetown community partners."},
 {title:"Alumni Relations Chair",name:"To be confirmed",description:"Strengthens lifelong connections between undergraduate members and Alpha Omicron alumni."},

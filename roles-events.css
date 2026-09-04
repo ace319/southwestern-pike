@@ -28,6 +28,8 @@
 .role:nth-child(even){background:#f5ead2}
 .role>span{display:none}
 .role>img{display:block;width:100%;margin-bottom:20px;aspect-ratio:4/5;border:3px solid var(--garnet);object-fit:cover;object-position:center top}
+.role-photo{position:relative;width:100%;margin-bottom:20px;overflow:hidden;aspect-ratio:4/5;border:3px solid var(--garnet);background:var(--garnet-dark)}
+.role-photo img{position:absolute;max-width:none;height:auto}
 .role h3{margin:0;font:800 clamp(1.4rem,2.2vw,2rem)/1 var(--display);text-transform:uppercase}
 .role strong{display:block;margin-top:8px;color:var(--garnet);font:700 .75rem var(--display);letter-spacing:.07em;text-transform:uppercase}
 .role p{margin:16px 0 0;color:var(--muted);font-size:.82rem;line-height:1.55}
