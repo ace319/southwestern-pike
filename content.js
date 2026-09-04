@@ -17,7 +17,7 @@ const chapterRoles=[
 const upcomingEvents=[
 {month:"TBA",day:"—",title:"Fall Recruitment",type:"Recruitment",location:"Alpha Omicron Chapter House",description:"Meet the brothers and learn about the Southwestern PIKE experience.",link:"https://www.instagram.com/southwesternpike/"},
 {month:"TBA",day:"—",title:"Fireman’s Challenge",type:"Philanthropy",location:"Southwestern University",description:"Alpha Omicron’s fall signature event supporting service and community involvement.",link:"https://www.instagram.com/southwesternpike/"},
-{month:"TBA",day:"—",title:"Annual Crawfish Boil",type:"Chapter Tradition",location:"Georgetown, Texas",description:"A spring tradition bringing together brothers, friends, alumni, and community.",link:"https://www.instagram.com/southwesternpike/"}
+{month:"TBA",day:"—",title:"2026 Annual Crawfish Boil",type:"Chapter Tradition",location:"Georgetown, Texas",description:"A spring tradition bringing together brothers, friends, alumni, and community.",link:"https://www.instagram.com/southwesternpike/"}
 ];
 
 const recruitmentTeam=[
