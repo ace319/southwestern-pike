@@ -18,3 +18,22 @@
 @media(max-width:1050px){.recruitment-team{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:700px){.directory-heading{grid-template-columns:1fr}.recruitment-team{grid-template-columns:1fr}}
 @media(max-width:420px){.recruitment-card{grid-template-columns:95px 1fr}.recruitment-card>img,.recruitment-initials,.recruitment-photo{width:95px;height:157px}.recruitment-card-copy{padding:16px}}
+
+/* Match the portrait-led leadership cards */
+.recruitment-team{grid-template-columns:repeat(3,minmax(0,320px));justify-content:center;gap:24px}
+.recruitment-card{display:flex;overflow:hidden;color:white;background:#170d10;border:1px solid #ffffff12;border-radius:18px;box-shadow:0 14px 35px rgba(50,11,19,.14);flex-direction:column}
+.recruitment-media{position:relative;width:100%;height:285px;overflow:hidden;background:linear-gradient(145deg,var(--garnet-dark),var(--garnet))}
+.recruitment-media>img{display:block;width:100%;height:100%;object-fit:cover;object-position:center top;transition:transform .3s ease}
+.recruitment-media>i{position:absolute;z-index:2;inset:35% 0 0;background:linear-gradient(to top,#170d10,transparent);pointer-events:none}
+.recruitment-card:hover .recruitment-media>img,.recruitment-card:hover .recruitment-photo img{transform:scale(1.045)}
+.recruitment-photo{width:100%;height:100%;transition:transform .3s ease}
+.recruitment-photo img{transition:transform .3s ease}
+.recruitment-initials{display:grid;width:100%;height:100%;color:var(--gold);background:transparent;place-items:center;font:800 3.5rem var(--display)}
+.recruitment-card-copy{display:flex;padding:0 20px 22px;align-items:flex-start;flex-direction:column}
+.recruitment-contact{display:flex;width:100%;min-height:83px;margin:0 0 18px;padding:0 0 18px;border-bottom:1px solid #ffffff32;justify-content:center;flex-direction:column}
+.recruitment-card-copy .recruitment-contact a{margin:3px 0;color:#eee3df;font:600 .8rem var(--sans)}
+.recruitment-card-copy h4{margin:0;color:white;font:700 1rem var(--sans);letter-spacing:0;text-transform:none}
+.recruitment-card-copy p{margin:3px 0 0;color:var(--gold);font:800 1rem/1.2 var(--display);letter-spacing:.045em;text-transform:uppercase}
+.recruitment-card-copy>span{margin-top:9px;color:#d9c9c4;font:700 .68rem var(--display);letter-spacing:.1em;text-transform:uppercase}
+@media(max-width:1050px){.recruitment-team{grid-template-columns:repeat(2,minmax(0,320px))}}
+@media(max-width:700px){.recruitment-team{grid-template-columns:minmax(0,360px)}.recruitment-media{height:310px}}

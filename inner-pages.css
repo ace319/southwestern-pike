@@ -26,5 +26,5 @@
 @media(max-width:560px){.compact-people{grid-template-columns:1fr}}
 .academic-results{grid-template-columns:repeat(2,minmax(0,1fr));align-items:start}.academic-results figure{margin:0;background:var(--garnet-dark)}.academic-results img{height:auto;max-height:none;aspect-ratio:auto;object-fit:contain}.academic-results figcaption{padding:13px 16px;color:var(--gold);font:800 .78rem var(--display);letter-spacing:.08em;text-transform:uppercase}
 @media(max-width:700px){.academic-results{grid-template-columns:1fr}}
-.pledgeship-gallery{grid-template-columns:1fr 1fr;align-items:start}.pledgeship-gallery figure{margin:0;background:var(--garnet-dark)}.pledgeship-gallery img{height:auto;max-height:none;object-fit:contain}.pledgeship-gallery figcaption{padding:13px 16px;color:var(--gold);font:800 .78rem var(--display);letter-spacing:.08em;text-transform:uppercase}
-@media(max-width:700px){.pledgeship-gallery{grid-template-columns:1fr}}
+.pledgeship-gallery{max-width:900px;margin-right:auto;margin-left:auto;grid-template-columns:1fr 1fr;align-items:stretch}.pledgeship-gallery figure{display:flex;margin:0;background:var(--garnet-dark);flex-direction:column}.pledgeship-gallery img{width:100%;height:360px;max-height:none;object-fit:contain;background:#170d10}.pledgeship-gallery figcaption{padding:13px 16px;color:var(--gold);font:800 .78rem var(--display);letter-spacing:.08em;text-transform:uppercase}
+@media(max-width:700px){.pledgeship-gallery{max-width:430px;grid-template-columns:1fr}.pledgeship-gallery img{height:330px}}
