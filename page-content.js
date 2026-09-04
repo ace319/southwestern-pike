@@ -22,5 +22,6 @@ const pageContent={
 };
 pageContent.philanthropy.body=pageContent.philanthropy.body.replace("Spring Crawfish Boil","2026 Spring Crawfish Boil");
 pageContent.news.body=pageContent.news.body.replace("Crawfish Boil 2025","Crawfish Boil 2026");
+pageContent.pledgeship.body=pageContent.pledgeship.body.replace(/<div class="official-gallery four">.*?<\/div>/,`<div class="official-gallery pledgeship-gallery"><figure><img src="assets/official/pledgeship/new-member-class-1.jpg" alt="Alpha Omicron new-member class gathered at the chapter house"><figcaption>New-member class at the Alpha Omicron house</figcaption></figure><figure><img src="assets/official/pledgeship/new-member-class-2.jpg" alt="Alpha Omicron new-member class standing together on the chapter house stairs"><figcaption>Brotherhood begins with a shared experience</figcaption></figure></div>`);
 const pageRoot=document.querySelector('[data-page-content]');
 if(pageRoot){const key=document.body.dataset.page;const page=pageContent[key];if(page){document.title=`${page.title} — Southwestern PIKE`;pageRoot.innerHTML=`<section class="page-hero"><p class="kicker">${page.label}</p><h1>${page.title}</h1><p>${page.lead}</p></section><section class="page-body">${page.body}</section>`;}}
