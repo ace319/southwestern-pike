@@ -1,6 +1,6 @@
 /* Edit this file when chapter officers or events change. */
 const chapterRoles=[
-{title:"President",name:"Zachary Faubion",description:"Sets chapter priorities, leads meetings, and represents Alpha Omicron on campus and within PIKE."},
+{title:"President",name:"Zachary Faubion",image:"assets/leadership/zachary-faubion-president.png",description:"Sets chapter priorities, leads meetings, and represents Alpha Omicron on campus and within PIKE."},
 {title:"Internal Vice President",name:"Ricky Mitchell",description:"Coordinates internal operations, committees, standards, and the brotherhood experience."},
 {title:"External Vice President",name:"Luke Lawhon",description:"Leads campus relations, community outreach, public relations, and external partnerships."},
 {title:"Membership Development Vice President",name:"John Paul Wrockloff",description:"Guides member education, personal development, and preparation for active chapter membership."},
