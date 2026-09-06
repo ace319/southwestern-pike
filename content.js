@@ -25,7 +25,7 @@ const recruitmentTeam=[
 {name:"Luke Lawhon",role:"Vice President of Recruitment",region:"Chapter-wide",instagram:"luke.lawhon_",phone:"915-242-7725",image:"assets/leadership/luke-lawhon.jpg"},
 {name:"Jeremiah Wilkins",role:"Vice President of Recruitment",region:"Chapter-wide",instagram:"jeremiahwilkins_",phone:"712-703-6204",image:"assets/recruitment/jeremiah-wilkins.jpg"},
 {name:"Alex Melillo",role:"Vice President of Recruitment",region:"Chapter-wide",instagram:"alex.melillo",phone:"832-226-3622",image:"assets/recruitment/alex-melillo.jpg"},
-{name:"Lane McCranie",role:"Recruitment Contact",region:"Dallas",instagram:"mccranielane",phone:"901-585-8756",image:"assets/recruitment/lane-mccranie.jpg"},
+{name:"Lane McCranie",role:"Recruitment Contact",region:"Dallas",instagram:"mccranielane",phone:"901-585-8756",image:"assets/recruitment/lane-mccranie-official.webp"},
 {name:"Jeffery Jordan",role:"Recruitment Contact",region:"Dallas",instagram:"jeffreyjordan._",phone:"918-629-2546",image:"assets/recruitment/jeffery-jordan.jpg"},
 {name:"Sam Segura",role:"Recruitment Contact",region:"Austin",instagram:"samsegura50",phone:"512-784-3341",image:"assets/recruitment/sam-segura.jpg"},
 {name:"Ricky Mitchell",role:"Recruitment Contact",region:"San Antonio",instagram:"littlerick4",phone:"210-585-6451",image:"assets/leadership/ricky-mitchell.jpg"},
