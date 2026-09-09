@@ -60,6 +60,7 @@
   width:min(100%,960px);
   margin:48px auto 0;
   overflow:hidden;
+  aspect-ratio:750/419;
   border:1px solid rgba(255,255,255,.22);
   border-radius:16px;
   background:#160a0d;
@@ -69,7 +70,9 @@
 .home-explore-photo img{
   display:block;
   width:100%;
-  height:auto;
+  height:100%;
+  object-fit:cover;
+  object-position:center top;
 }
 
 @media(max-width:900px){
