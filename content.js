@@ -26,11 +26,11 @@ const recruitmentTeam=[
 {name:"Jeremiah Wilkins",role:"Vice President of Recruitment",region:"Chapter-wide",instagram:"jeremiahwilkins_",phone:"712-703-6204",image:"assets/recruitment/jeremiah-wilkins.jpg"},
 {name:"Alex Melillo",role:"Vice President of Recruitment",region:"Chapter-wide",instagram:"alex.melillo",phone:"832-226-3622",image:"assets/recruitment/alex-melillo.jpg"},
 {name:"Lane McCranie",role:"Recruitment Contact",region:"Dallas",instagram:"mccranielane",phone:"901-585-8756",image:"assets/recruitment/lane-mccranie-official.webp"},
-{name:"Jeffery Jordan",role:"Recruitment Contact",region:"Dallas",instagram:"jeffreyjordan._",phone:"918-629-2546",image:"assets/recruitment/jeffery-jordan.jpg"},
+{name:"Jeffrey Jordan",role:"Recruitment Contact",region:"Dallas",instagram:"jeffreyjordan._",phone:"918-629-2546",image:"assets/official/athletics/jeffrey-jordan-2026.webp"},
 {name:"Sam Segura",role:"Recruitment Contact",region:"Austin",instagram:"samsegura50",phone:"512-784-3341",image:"assets/recruitment/sam-segura.jpg"},
 {name:"Ricky Mitchell",role:"Recruitment Contact",region:"San Antonio",instagram:"littlerick4",phone:"210-585-6451",image:"assets/leadership/ricky-mitchell.jpg"},
 {name:"Zachary Faubion",role:"Recruitment Contact",region:"San Antonio",instagram:"zachfaub",phone:"210-427-2880",image:"assets/leadership/zachary-faubion-president.png"},
-{name:"Will Sullivan",role:"Recruitment Contact",region:"Houston",instagram:"will_sully0",phone:"832-367-7782",image:"assets/recruitment/will-sullivan.jpg"},
+{name:"Will Sullivan",role:"Recruitment Contact",region:"Houston",instagram:"will_sully0",phone:"832-367-7782",image:"assets/official/athletics/will-sullivan-golf.webp"},
 {name:"Jameer Martin",role:"Recruitment Contact",region:"Houston",instagram:"jameermartin",phone:"951-901-3801",image:"assets/recruitment/jameer-martin.jpg"},
-{name:"Jake Trailer",role:"Recruitment Contact",region:"Out of State",instagram:"jake_trailer",phone:"650-250-2160",image:"assets/recruitment/jake-trailer.jpg"}
+{name:"Jake Trailer",role:"Recruitment Contact",region:"Out of State",instagram:"jake_trailer",phone:"650-250-2160",image:"assets/official/athletics/jake-trailer-2026.webp"}
 ];
