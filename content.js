@@ -31,6 +31,6 @@ const recruitmentTeam=[
 {name:"Ricky Mitchell",role:"Recruitment Contact",region:"San Antonio",instagram:"littlerick4",phone:"210-585-6451",image:"assets/leadership/ricky-mitchell.jpg"},
 {name:"Zachary Faubion",role:"Recruitment Contact",region:"San Antonio",instagram:"zachfaub",phone:"210-427-2880",image:"assets/leadership/zachary-faubion-president.png"},
 {name:"Will Sullivan",role:"Recruitment Contact",region:"Houston",instagram:"will_sully0",phone:"832-367-7782",image:"assets/official/athletics/will-sullivan-golf.webp"},
-{name:"Jameer Martin",role:"Recruitment Contact",region:"Houston",instagram:"jameermartin",phone:"951-901-3801",image:"assets/recruitment/jameer-martin.jpg"},
+{name:"Jameer Martin",role:"Recruitment Contact",region:"Houston",instagram:"jameermartin",phone:"951-901-3801",image:"assets/official/athletics/jameer-martin-2026.webp"},
 {name:"Jake Trailer",role:"Recruitment Contact",region:"Out of State",instagram:"jake_trailer",phone:"650-250-2160",image:"assets/official/athletics/jake-trailer-2026.webp"}
 ];

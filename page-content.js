@@ -21,6 +21,7 @@ allAthletePeople.push(
 ["Amani Singh","Swimming · Sprinter / Fly / Backstroke","assets/official/athletics/amani-singh.webp","https://southwesternpirates.com/sports/mens-swimming-and-diving/roster/amani-singh/7804"]
 );
 const updatedAthletes=[
+["Jameer Martin","Football · Defensive Back","assets/official/athletics/jameer-martin-2026.webp","https://southwesternpirates.com/sports/football/roster/jameer-martin/8158"],
 ["Carson Elder","Golf","assets/official/athletics/carson-elder-2026.webp","https://southwesternpirates.com/sports/mens-golf/roster/carson-elder/8067"],
 ["Sam McClure","Golf","assets/official/athletics/sam-mcclure-2026.webp","https://southwesternpirates.com/sports/mens-golf/roster/sam-mcclure/8068"],
 ["Ricky Mitchell","Golf","assets/official/athletics/ricky-mitchell-2026.webp","https://southwesternpirates.com/roster.aspx?rp_id=8069"],
