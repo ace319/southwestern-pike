@@ -17,6 +17,7 @@ allAthletePeople.push(
 ["Dylan Mackie","Lacrosse · Midfield","assets/official/athletics/dylan-mackie.webp","https://southwesternpirates.com/sports/mens-lacrosse/roster/dylan-mackie/7656"],
 ["Dylan Knighten","Lacrosse · Midfield","assets/official/athletics/dylan-knighten.webp","https://southwesternpirates.com/sports/mens-lacrosse/roster/dylan-knighten/7657"],
 ["Carson Elder","Golf","assets/official/athletics/carson-elder.jpg","https://southwesternpirates.com/sports/mens-golf/roster/carson-elder/8067"],
+["Will Sullivan","Golf","assets/official/athletics/will-sullivan-golf.webp","https://southwesternpirates.com/sports/mens-golf/roster/will-sullivan/8328"],
 ["Santiago Melendez","Swimming · Breaststroke","assets/official/athletics/santiago-melendez.webp","https://southwesternpirates.com/sports/mens-swimming-and-diving/roster/santiago-melendez/7825"],
 ["Amani Singh","Swimming · Sprinter / Fly / Backstroke","assets/official/athletics/amani-singh.webp","https://southwesternpirates.com/sports/mens-swimming-and-diving/roster/amani-singh/7804"]
 );
