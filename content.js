@@ -4,7 +4,7 @@ const chapterRoles=[
 {title:"Internal Vice President",name:"Ricky Mitchell",image:"assets/leadership/ricky-mitchell.jpg",description:"Coordinates internal operations, committees, standards, and the brotherhood experience."},
 {title:"Secretary",name:"Ignacio Gonzalez",description:"Maintains chapter records, meeting minutes, calendars, and official chapter communication."},
 {title:"Treasurer",name:"Ferris Garcia",image:"assets/official/athletics/ferris-garcia.png",description:"Oversees budgeting, dues, financial planning, and responsible chapter stewardship."},
-{title:"Sergeant at Arms",name:"Jackson Hollis",description:"Supports chapter standards, meeting procedure, accountability, and an orderly chapter environment."},
+{title:"Sergeant at Arms",name:"Jackson Hollis",image:"assets/leadership/jackson-hollis.jpg",description:"Supports chapter standards, meeting procedure, accountability, and an orderly chapter environment."},
 {title:"Recruitment Chairman\nCommunity Service Chairman",name:"Bobby Strauss",image:"assets/leadership/bobby-strauss.jpg",description:"Leads chapter recruitment strategy and organizes service projects that connect Alpha Omicron with the Georgetown community."},
 {title:"Health and Safety Officer",name:"Johannes Becker",description:"Coordinates health, safety, and risk-management practices for chapter activities."},
 {title:"Membership Development Vice President",name:"John Paul Wrockloff",image:"assets/leadership/john-paul-wrockloff.jpg",description:"Guides member education, personal development, and preparation for active chapter membership."},
@@ -21,7 +21,7 @@ const chapterRoles=[
 {title:"Public Relations Chairman",name:"Jett Love",image:"assets/official/athletics/jett-love-2026.webp",description:"Shares chapter news, achievements, events, and community involvement across public channels."},
 {title:"Campus Involvement Chairman",name:"Amani Singh",image:"assets/official/athletics/amani-singh.webp",description:"Encourages members to participate in student organizations, campus programs, and leadership opportunities."},
 {title:"Social Chairman",name:"Jeremiah Wilkins",image:"assets/recruitment/jeremiah-wilkins.jpg",description:"Plans responsible social programming and coordinates event logistics with campus and chapter partners."},
-{title:"Social Chairman",name:"Sebastian Sanders",description:"Plans responsible social programming and coordinates event logistics with campus and chapter partners."}
+{title:"Social Chairman",name:"Sebastian Sanders",image:"assets/leadership/sebastian-sanders.webp",description:"Plans responsible social programming and coordinates event logistics with campus and chapter partners."}
 ];
 const upcomingEvents=[
 {month:"TBA",day:"—",title:"Fall Recruitment",type:"Recruitment",location:"Alpha Omicron Chapter House",description:"Meet the brothers and learn about the Southwestern PIKE experience.",link:"https://www.instagram.com/southwesternpike/"},
