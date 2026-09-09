@@ -24,6 +24,8 @@ const updatedAthletes=[
 ["Carson Elder","Golf","assets/official/athletics/carson-elder-2026.webp","https://southwesternpirates.com/sports/mens-golf/roster/carson-elder/8067"],
 ["Sam McClure","Golf","assets/official/athletics/sam-mcclure-2026.webp","https://southwesternpirates.com/sports/mens-golf/roster/sam-mcclure/8068"],
 ["Ricky Mitchell","Golf","assets/official/athletics/ricky-mitchell-2026.webp","https://southwesternpirates.com/roster.aspx?rp_id=8069"],
+["Jett Love","Track & Field · Sprints / Hurdles","assets/official/athletics/jett-love-2026.webp","https://southwesternpirates.com/sports/mens-track-and-field/roster/jett-love/7882"],
+["Zach Faubion","Lacrosse · Midfield","assets/official/athletics/zach-faubion-2026.webp","https://southwesternpirates.com/sports/mens-lacrosse/roster/zach-faubion/7617"],
 ["Dyson Kwan","Lacrosse · Defense","assets/official/athletics/dyson-kwan-2026.webp","https://southwesternpirates.com/sports/mens-lacrosse/roster/dyson-kwan/7623"],
 ["Nolan Zaby","Lacrosse · Midfield","assets/official/athletics/nolan-zaby-2026.webp","https://southwesternpirates.com/sports/mens-lacrosse/roster/nolan-zaby/7640"],
 ["Trey Pena","Lacrosse · Faceoff","assets/official/athletics/trey-pena-2026.webp","https://southwesternpirates.com/sports/mens-lacrosse/roster/trey-pena/7628"],
