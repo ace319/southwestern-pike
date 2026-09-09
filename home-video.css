@@ -2,61 +2,75 @@
   display:grid;
   min-width:0;
   min-height:880px;
-  padding:104px 24px 42px;
+  padding:104px 32px 42px;
   place-items:center;
   background:radial-gradient(circle at 50% 35%,#651522 0,#320b13 64%,#17090d 100%);
 }
 
 .hero-video:after{
-  z-index:1;
-  pointer-events:none;
-  background:linear-gradient(90deg,rgba(50,11,19,.32),transparent 38%),linear-gradient(0deg,rgba(20,8,10,.38),transparent 24%);
+  display:none;
 }
 
-.hero-video iframe{
+.hero-video-frame{
   position:relative;
-  z-index:2;
-  display:block;
-  width:min(100%,500px);
-  height:720px;
-  border:0;
-  border-radius:16px;
-  background:#fff;
+  width:min(100%,720px);
+  overflow:hidden;
+  aspect-ratio:16/9;
+  border:1px solid rgba(255,255,255,.18);
+  border-radius:18px;
+  background:#050505;
   box-shadow:0 28px 70px rgba(0,0,0,.38);
 }
 
-.hero-video figcaption{
-  z-index:3;
+.hero-video-frame:after{
+  position:absolute;
+  z-index:2;
+  inset:0;
+  content:"";
+  pointer-events:none;
+  background:radial-gradient(ellipse at center,transparent 42%,rgba(0,0,0,.44) 100%),linear-gradient(0deg,rgba(0,0,0,.34),transparent 38%);
 }
 
-.hero-video figcaption a{
-  color:white;
-  text-underline-offset:4px;
+.hero-video video{
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+}
+
+.hero-video-word{
+  position:absolute;
+  z-index:3;
+  top:50%;
+  left:50%;
+  color:rgba(255,255,255,.96);
+  font:500 clamp(5rem,10vw,10rem)/.8 var(--serif);
+  letter-spacing:-.075em;
+  text-shadow:0 8px 32px rgba(0,0,0,.72);
+  transform:translate(-52%,-50%);
+  pointer-events:none;
 }
 
 @media(max-width:900px){
   .hero-video{
-    height:700px;
-    min-height:700px;
-    padding:60px 20px 38px;
-  }
-
-  .hero-video iframe{
-    width:min(100%,470px);
-    height:610px;
+    height:620px;
+    min-height:620px;
+    padding:58px 24px;
   }
 }
 
 @media(max-width:560px){
   .hero-video{
-    height:620px;
-    min-height:620px;
-    padding:34px 10px 42px;
+    height:430px;
+    min-height:430px;
+    padding:44px 12px;
   }
 
-  .hero-video iframe{
-    width:100%;
-    height:550px;
-    border-radius:12px;
+  .hero-video-frame{
+    border-radius:10px;
+  }
+
+  .hero-video-word{
+    font-size:clamp(4.3rem,24vw,7rem);
   }
 }
