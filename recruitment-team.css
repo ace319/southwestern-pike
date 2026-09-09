@@ -3,11 +3,10 @@
 .rush-gallery-heading .kicker{grid-column:1/-1;margin:0;color:var(--gold)}
 .rush-gallery-heading h2{font:400 clamp(3.4rem,6.5vw,6.5rem)/.88 var(--serif);letter-spacing:-.045em}
 .rush-gallery-heading>p:last-child{max-width:610px;margin:0;color:#e2d3ce;font:400 clamp(1.15rem,1.8vw,1.45rem)/1.45 var(--serif)}
-.rush-photo-grid{display:grid;max-width:1400px;margin:auto;grid-template-columns:repeat(3,minmax(0,1fr));grid-auto-rows:260px;gap:14px}
+.rush-photo-grid{display:grid;max-width:1200px;margin:auto;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
 .rush-photo-grid figure{position:relative;margin:0;overflow:hidden;border:1px solid #ffffff22;background:#080607}
-.rush-photo-grid .rush-photo-feature{grid-column:span 2;grid-row:span 2}
-.rush-photo-grid .rush-photo-wide{grid-column:span 2}
-.rush-photo-grid img{display:block;width:100%;height:100%;object-fit:cover;object-position:center;transition:transform .45s ease}
+.rush-photo-grid .rush-photo-feature,.rush-photo-grid .rush-photo-wide{grid-column:auto;grid-row:auto}
+.rush-photo-grid img{display:block;width:100%;height:auto;aspect-ratio:4/5;object-fit:contain;object-position:center;transition:transform .45s ease}
 .rush-photo-grid figure:hover img{transform:scale(1.035)}
 .rush-photo-grid figcaption{position:absolute;right:14px;bottom:14px;padding:8px 11px;color:var(--gold);background:#170d10e6;font:800 .68rem var(--display);letter-spacing:.1em;text-transform:uppercase}
 .recruitment-directory{margin-top:90px;padding-top:55px;border-top:5px solid var(--garnet)}
@@ -28,9 +27,9 @@
 .recruitment-card-copy p{margin:7px 0 15px;color:var(--muted);font-size:.75rem;line-height:1.35}
 .recruitment-card-copy a{margin-top:5px;color:var(--garnet-dark);font:700 .76rem var(--body);overflow-wrap:anywhere}
 @media(max-width:1050px){.recruitment-team{grid-template-columns:repeat(2,minmax(0,1fr))}}
-@media(max-width:800px){.rush-gallery-heading{grid-template-columns:1fr}.rush-photo-grid{grid-template-columns:repeat(2,minmax(0,1fr));grid-auto-rows:240px}.rush-photo-grid .rush-photo-feature,.rush-photo-grid .rush-photo-wide{grid-column:span 2}.rush-photo-grid .rush-photo-feature{grid-row:span 2}}
+@media(max-width:800px){.rush-gallery-heading{grid-template-columns:1fr}.rush-photo-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:700px){.directory-heading{grid-template-columns:1fr}.recruitment-team{grid-template-columns:1fr}}
-@media(max-width:520px){.rush-gallery-section{padding:65px 20px 75px}.rush-photo-grid{grid-template-columns:1fr;grid-auto-rows:300px}.rush-photo-grid .rush-photo-feature,.rush-photo-grid .rush-photo-wide{grid-column:auto;grid-row:auto}}
+@media(max-width:520px){.rush-gallery-section{padding:65px 20px 75px}.rush-photo-grid{max-width:380px;grid-template-columns:1fr}}
 @media(max-width:420px){.recruitment-card{grid-template-columns:95px 1fr}.recruitment-card>img,.recruitment-initials,.recruitment-photo{width:95px;height:157px}.recruitment-card-copy{padding:16px}}
 
 /* Match the portrait-led leadership cards */
