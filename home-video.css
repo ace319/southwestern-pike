@@ -4,6 +4,8 @@
   min-height:880px;
   padding:104px 32px 42px;
   place-items:center;
+  align-content:center;
+  gap:24px;
   background:radial-gradient(circle at 50% 35%,#651522 0,#320b13 64%,#17090d 100%);
 }
 
@@ -39,15 +41,12 @@
 }
 
 .hero-video-word{
-  position:absolute;
-  z-index:3;
-  top:50%;
-  left:50%;
+  position:relative;
+  z-index:1;
   color:rgba(255,255,255,.96);
-  font:500 clamp(5rem,10vw,10rem)/.8 var(--serif);
+  font:500 clamp(5rem,10vw,9rem)/.72 var(--serif);
   letter-spacing:-.075em;
   text-shadow:0 8px 32px rgba(0,0,0,.72);
-  transform:translate(-52%,-50%);
   pointer-events:none;
 }
 
@@ -64,6 +63,7 @@
     height:430px;
     min-height:430px;
     padding:44px 12px;
+    gap:16px;
   }
 
   .hero-video-frame{
@@ -71,6 +71,6 @@
   }
 
   .hero-video-word{
-    font-size:clamp(4.3rem,24vw,7rem);
+    font-size:clamp(4rem,21vw,6.5rem);
   }
 }
