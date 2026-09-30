@@ -2,7 +2,7 @@
   display:grid;
   overflow:hidden;
   padding:0;
-  grid-template-rows:minmax(300px,44%) 1fr;
+  grid-template-rows:1fr minmax(300px,44%);
   color:white;
   background:#320b13;
 }
@@ -13,7 +13,7 @@
   min-height:0;
   margin:0;
   overflow:hidden;
-  border-bottom:8px solid #d3ae5f;
+  border-top:8px solid #d3ae5f;
 }
 
 .home-house-photo{
@@ -161,7 +161,7 @@
 
 @media(max-width:560px){
   .home-house-copy{
-    grid-template-rows:250px auto;
+    grid-template-rows:auto 250px;
   }
 
   .home-house-content{
