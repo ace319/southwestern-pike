@@ -1,37 +1,73 @@
 .home-house-copy{
-  isolation:isolate;
+  display:grid;
   overflow:hidden;
+  padding:0;
+  grid-template-rows:minmax(300px,44%) 1fr;
   color:white;
   background:#320b13;
 }
 
-.home-house-copy:after{
-  position:absolute;
-  z-index:-1;
-  inset:0;
-  content:"";
-  background:linear-gradient(90deg,rgba(27,7,12,.92),rgba(50,11,19,.7) 62%,rgba(50,11,19,.48)),linear-gradient(0deg,rgba(23,6,10,.52),transparent 58%);
+.home-house-visual{
+  position:relative;
+  min-width:0;
+  min-height:0;
+  margin:0;
+  overflow:hidden;
+  border-bottom:8px solid #d3ae5f;
 }
 
 .home-house-photo{
-  position:absolute;
-  z-index:-2;
-  inset:0;
+  display:block;
   width:100%;
   height:100%;
   object-fit:cover;
-  object-position:center;
+  object-position:center 54%;
   filter:saturate(.86) contrast(1.06);
+}
+
+.home-house-visual:after{
+  position:absolute;
+  inset:0;
+  content:"";
+  pointer-events:none;
+  background:linear-gradient(0deg,rgba(24,7,11,.24),transparent 32%);
+}
+
+.home-house-visual figcaption{
+  position:absolute;
+  z-index:1;
+  right:18px;
+  bottom:16px;
+  padding:7px 10px;
+  color:#21191a;
+  background:#d3ae5f;
+  font:700 .58rem var(--mono);
+  letter-spacing:.07em;
+  text-transform:uppercase;
+}
+
+.home-house-content{
+  display:flex;
+  min-width:0;
+  padding:clamp(30px,3.6vw,52px) clamp(28px,6vw,92px) 44px;
+  justify-content:center;
+  flex-direction:column;
+  background:linear-gradient(135deg,#320b13,#651522 78%);
 }
 
 .home-house-copy h1{
   color:white;
-  text-shadow:0 5px 28px rgba(0,0,0,.42);
+  text-shadow:none;
 }
 
 .home-house-copy .hero-lead{
+  margin-top:28px;
   border-left-color:#d3ae5f;
-  text-shadow:0 2px 16px rgba(0,0,0,.55);
+  text-shadow:none;
+}
+
+.home-house-copy .hero-actions{
+  margin-top:24px;
 }
 
 .home-house-copy .text-link{
@@ -124,6 +160,21 @@
 }
 
 @media(max-width:560px){
+  .home-house-copy{
+    grid-template-rows:250px auto;
+  }
+
+  .home-house-content{
+    padding:38px 22px 48px;
+  }
+
+  .home-house-visual figcaption{
+    right:12px;
+    bottom:11px;
+    max-width:calc(100% - 24px);
+    font-size:.52rem;
+  }
+
   .hero-video{
     height:430px;
     min-height:430px;
