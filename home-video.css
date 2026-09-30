@@ -2,7 +2,7 @@
   display:grid;
   overflow:hidden;
   padding:0;
-  grid-template-rows:1fr minmax(300px,44%);
+  grid-template-rows:1fr minmax(320px,46%);
   color:white;
   background:#320b13;
 }
@@ -13,7 +13,7 @@
   min-height:0;
   margin:0;
   overflow:hidden;
-  border-top:8px solid #d3ae5f;
+  background:#320b13;
 }
 
 .home-house-photo{
@@ -30,20 +30,7 @@
   inset:0;
   content:"";
   pointer-events:none;
-  background:linear-gradient(0deg,rgba(24,7,11,.24),transparent 32%);
-}
-
-.home-house-visual figcaption{
-  position:absolute;
-  z-index:1;
-  right:18px;
-  bottom:16px;
-  padding:7px 10px;
-  color:#21191a;
-  background:#d3ae5f;
-  font:700 .58rem var(--mono);
-  letter-spacing:.07em;
-  text-transform:uppercase;
+  background:linear-gradient(180deg,#651522 0,rgba(101,21,34,.54) 10%,transparent 32%),linear-gradient(0deg,rgba(24,7,11,.2),transparent 30%);
 }
 
 .home-house-content{
@@ -166,13 +153,6 @@
 
   .home-house-content{
     padding:38px 22px 48px;
-  }
-
-  .home-house-visual figcaption{
-    right:12px;
-    bottom:11px;
-    max-width:calc(100% - 24px);
-    font-size:.52rem;
   }
 
   .hero-video{
