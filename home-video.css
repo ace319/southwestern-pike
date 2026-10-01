@@ -47,6 +47,10 @@
   text-shadow:none;
 }
 
+.home-house-copy h1 em{
+  color:white;
+}
+
 .home-house-copy .hero-lead{
   margin-top:28px;
   border-left-color:#d3ae5f;
