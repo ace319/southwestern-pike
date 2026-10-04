@@ -24,7 +24,7 @@ const chapterRoles=[
 {title:"Social Chairman",name:"Sebastian Sanders",image:"assets/leadership/sebastian-sanders.webp",description:"Plans responsible social programming and coordinates event logistics with campus and chapter partners."}
 ];
 const upcomingEvents=[
-{month:"TBA",day:"—",title:"Fall Recruitment",type:"Recruitment",location:"Alpha Omicron Chapter House",description:"Meet the brothers and learn about the Southwestern PIKE experience.",link:"https://www.instagram.com/southwesternpike/"},
+{month:"TBA",day:"—",title:"Fall Recruitment",type:"Recruitment",location:"Alpha Omicron Chapter House",description:"Meet the brothers and learn about the Southwestern PIKE experience.",image:"assets/events/fall-recruitment-2026.png",link:"https://www.instagram.com/southwesternpike/"},
 {month:"TBA",day:"—",title:"Fireman’s Challenge",type:"Philanthropy",location:"Southwestern University",description:"Alpha Omicron’s fall signature event supporting service and community involvement.",link:"https://www.instagram.com/southwesternpike/"},
 {month:"APR",day:"12",title:"2026 Annual Crawfish Boil",type:"Philanthropy",location:"Pike House · Georgetown, Texas",description:"Sunday, April 12 from 1:30–4:00 PM, benefiting the Boys & Girls Club of Georgetown. Prepay $12 or pay $22 at the door.",image:"assets/events/crawfish-boil-2026.png",link:"https://www.instagram.com/southwesternpike/"}
 ];
