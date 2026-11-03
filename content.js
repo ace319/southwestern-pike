@@ -25,7 +25,6 @@ const chapterRoles=[
 ];
 const upcomingEvents=[
 {month:"NOV",day:"15",title:"Second Fall Recruitment · Bid Day",type:"Recruitment",location:"Alpha Omicron Chapter House",description:"Bid Day for Alpha Omicron’s second Fall 2026 recruitment round is Sunday, November 15. Connect with our recruitment team to learn more.",image:"assets/events/fall-recruitment-2026.png",link:"https://www.instagram.com/southwesternpike/"},
-{month:"TBA",day:"—",title:"Fireman’s Challenge",type:"Philanthropy",location:"Southwestern University",description:"Alpha Omicron’s fall signature event supporting service and community involvement.",link:"https://www.instagram.com/southwesternpike/"},
 {month:"APR",day:"12",title:"2026 Annual Crawfish Boil",type:"Philanthropy",location:"Pike House · Georgetown, Texas",description:"Sunday, April 12 from 1:30–4:00 PM, benefiting the Boys & Girls Club of Georgetown. Prepay $12 or pay $22 at the door.",image:"assets/events/crawfish-boil-2026.png",link:"https://www.instagram.com/southwesternpike/"}
 ];
 
