@@ -1,11 +1,10 @@
 /* Edit this file when chapter officers or events change. */
 const chapterRoles=[
-{title:"President",name:"Zachary Faubion",image:"assets/leadership/zachary-faubion-president.png",description:"Sets chapter priorities, leads meetings, and represents Alpha Omicron on campus and within PIKE."},
+{title:"President",name:"Bobby Strauss",image:"assets/leadership/bobby-strauss.jpg",description:"Sets chapter priorities, leads meetings, and represents Alpha Omicron on campus and within PIKE."},
 {title:"Internal Vice President",name:"Ricky Mitchell",image:"assets/leadership/ricky-mitchell.jpg",description:"Coordinates internal operations, committees, standards, and the brotherhood experience."},
 {title:"Secretary",name:"Ignacio Gonzalez",description:"Maintains chapter records, meeting minutes, calendars, and official chapter communication."},
 {title:"Treasurer",name:"Ferris Garcia",image:"assets/official/athletics/ferris-garcia.png",description:"Oversees budgeting, dues, financial planning, and responsible chapter stewardship."},
 {title:"Sergeant at Arms",name:"Jackson Hollis",image:"assets/leadership/jackson-hollis.jpg",description:"Supports chapter standards, meeting procedure, accountability, and an orderly chapter environment."},
-{title:"Recruitment Chairman\nCommunity Service Chairman",name:"Bobby Strauss",image:"assets/leadership/bobby-strauss.jpg",description:"Leads chapter recruitment strategy and organizes service projects that connect Alpha Omicron with the Georgetown community."},
 {title:"Health and Safety Officer",name:"Johannes Becker",image:"assets/leadership/johannes-becker.jpg",description:"Coordinates health, safety, and risk-management practices for chapter activities."},
 {title:"Membership Development Vice President",name:"John Paul Wrockloff",image:"assets/leadership/john-paul-wrockloff.jpg",description:"Guides member education, personal development, and preparation for active chapter membership."},
 {title:"External Vice President",name:"Luke Lawhon",image:"assets/leadership/luke-lawhon.jpg",description:"Leads campus relations, community outreach, public relations, and external partnerships."},
