@@ -2,22 +2,22 @@
 const chapterRoles=[
 {title:"President",name:"Bobby Strauss",image:"assets/leadership/bobby-strauss.jpg",description:"Sets chapter priorities, leads meetings, and represents Alpha Omicron on campus and within PIKE."},
 {title:"Internal Vice President",name:"Dylan Knighten",image:"assets/official/athletics/dylan-knighten-2026.webp",description:"Coordinates internal operations, committees, standards, and the brotherhood experience."},
-{title:"Secretary",name:"Ignacio Gonzalez",description:"Maintains chapter records, meeting minutes, calendars, and official chapter communication."},
+{title:"Secretary",name:"Sebastian Sanders",image:"assets/leadership/sebastian-sanders.webp",description:"Maintains chapter records, meeting minutes, calendars, and official chapter communication."},
 {title:"Treasurer",name:"Carson Elder",image:"assets/official/athletics/carson-elder-2026.webp",description:"Oversees budgeting, dues, financial planning, and responsible chapter stewardship."},
-{title:"Sergeant at Arms",name:"Jackson Hollis",image:"assets/leadership/jackson-hollis.jpg",description:"Supports chapter standards, meeting procedure, accountability, and an orderly chapter environment."},
+{title:"Sergeant at Arms",name:"Corbin Comiskey",image:"assets/official/athletics/corbin-comiskey.webp",description:"Supports chapter standards, meeting procedure, accountability, and an orderly chapter environment."},
 {title:"Health and Safety Officer",name:"Johannes Becker",image:"assets/leadership/johannes-becker.jpg",description:"Coordinates health, safety, and risk-management practices for chapter activities."},
 {title:"Vice President of Membership Development",name:"William Sullivan",image:"assets/official/athletics/will-sullivan-golf.webp",description:"Guides member education, personal development, and preparation for active chapter membership."},
 {title:"External Vice President",name:"Jett Love",image:"assets/official/athletics/jett-love-2026.webp",description:"Leads campus relations, community outreach, public relations, and external partnerships."},
 {title:"House Manager",name:"Clay Elliott",image:"assets/leadership/clay-elliott.jpg",description:"Coordinates chapter-house operations, upkeep, and day-to-day residential needs."},
 {title:"Brotherhood Chairman",name:"Diego Herrera",image:"assets/official/athletics/diego-herrera.webp",description:"Plans experiences that strengthen trust, friendship, and connection throughout the chapter."},
 {title:"Brotherhood Chairman",name:"Tristan Simmons",description:"Plans experiences that strengthen trust, friendship, and connection throughout the chapter."},
+{title:"Philanthropy Chairman",name:"Ezra Suez",description:"Coordinates chapter philanthropy events and community partnerships that support local causes."},
 {title:"Fundraising Chairman",name:"Samuel Segura",image:"assets/recruitment/sam-segura.jpg",description:"Organizes fundraising initiatives that support chapter programs and community efforts."},
 {title:"Scholarship Chairman",name:"Jake Trailer",image:"assets/official/athletics/jake-trailer-2026.webp",description:"Supports academic achievement through resources, mentoring, recognition, and accountability."},
 {title:"New Member Educator",name:"Dyson Kwan",image:"assets/official/athletics/dyson-kwan-2026.webp",description:"Guides new members through chapter history, values, expectations, and the membership-development program."},
 {title:"Athletics Chairman",name:"Matthew Fair",image:"assets/official/athletics/matt-fair.webp",description:"Coordinates chapter athletics, intramural participation, and competitive opportunities."},
 {title:"Campus Involvement Chairman",name:"Amani Singh",image:"assets/official/athletics/amani-singh.webp",description:"Encourages members to participate in student organizations, campus programs, and leadership opportunities."},
-{title:"Social Chairman",name:"Jeremiah Wilkins",image:"assets/recruitment/jeremiah-wilkins.jpg",description:"Plans responsible social programming and coordinates event logistics with campus and chapter partners."},
-{title:"Social Chairman",name:"Sebastian Sanders",image:"assets/leadership/sebastian-sanders.webp",description:"Plans responsible social programming and coordinates event logistics with campus and chapter partners."}
+{title:"Social Chairman",name:"Jeremiah Wilkins",image:"assets/recruitment/jeremiah-wilkins.jpg",description:"Plans responsible social programming and coordinates event logistics with campus and chapter partners."}
 ];
 const upcomingEvents=[];
 
