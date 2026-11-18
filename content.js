@@ -1,7 +1,7 @@
 /* Edit this file when chapter officers or events change. */
 const chapterRoles=[
 {title:"President",name:"Bobby Strauss",image:"assets/leadership/bobby-strauss.jpg",description:"Sets chapter priorities, leads meetings, and represents Alpha Omicron on campus and within PIKE."},
-{title:"Internal Vice President",name:"Ricky Mitchell",image:"assets/leadership/ricky-mitchell.jpg",description:"Coordinates internal operations, committees, standards, and the brotherhood experience."},
+{title:"Internal Vice President",name:"Dylan Knighten",image:"assets/official/athletics/dylan-knighten-2026.webp",description:"Coordinates internal operations, committees, standards, and the brotherhood experience."},
 {title:"Secretary",name:"Ignacio Gonzalez",description:"Maintains chapter records, meeting minutes, calendars, and official chapter communication."},
 {title:"Treasurer",name:"Ferris Garcia",image:"assets/official/athletics/ferris-garcia.png",description:"Oversees budgeting, dues, financial planning, and responsible chapter stewardship."},
 {title:"Sergeant at Arms",name:"Jackson Hollis",image:"assets/leadership/jackson-hollis.jpg",description:"Supports chapter standards, meeting procedure, accountability, and an orderly chapter environment."},
@@ -9,7 +9,6 @@ const chapterRoles=[
 {title:"Membership Development Vice President",name:"John Paul Wrockloff",image:"assets/leadership/john-paul-wrockloff.jpg",description:"Guides member education, personal development, and preparation for active chapter membership."},
 {title:"External Vice President",name:"Jett Love",image:"assets/official/athletics/jett-love-2026.webp",description:"Leads campus relations, community outreach, public relations, and external partnerships."},
 {title:"House Manager",name:"Clay Elliott",image:"assets/leadership/clay-elliott.jpg",description:"Coordinates chapter-house operations, upkeep, and day-to-day residential needs."},
-{title:"Alumni Relations Chairman",name:"Dylan Knighten",image:"assets/official/athletics/dylan-knighten-2026.webp",description:"Strengthens lifelong connections between undergraduate members and Alpha Omicron alumni."},
 {title:"Historian",name:"William Sullivan",image:"assets/official/athletics/will-sullivan-golf.webp",description:"Preserves chapter records, photographs, traditions, and significant moments for future members."},
 {title:"Brotherhood Chairman",name:"Diego Herrera",image:"assets/official/athletics/diego-herrera.webp",description:"Plans experiences that strengthen trust, friendship, and connection throughout the chapter."},
 {title:"Brotherhood Chairman",name:"Tristan Simmons",description:"Plans experiences that strengthen trust, friendship, and connection throughout the chapter."},
