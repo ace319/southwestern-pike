@@ -19,7 +19,7 @@ const chapterRoles=[
 {title:"Athletics Chairman",name:"Matthew Fair",image:"assets/official/athletics/matt-fair.webp",description:"Coordinates chapter athletics, intramural participation, and competitive opportunities."},
 {title:"Public Relations Chairman",name:"Jakob",description:"Shares chapter news, achievements, events, and community involvement across public channels."},
 {title:"Campus Involvement Chairman",name:"Amani Singh",image:"assets/official/athletics/amani-singh.webp",description:"Encourages members to participate in student organizations, campus programs, and leadership opportunities."},
-{title:"Social Chairman",name:"Jeremiah Wilkins",image:"assets/recruitment/jeremiah-wilkins.jpg",description:"Plans responsible social programming and coordinates event logistics with campus and chapter partners."}
+{title:"Social Chairman",name:"Zach Johnson",description:"Plans responsible social programming and coordinates event logistics with campus and chapter partners."}
 ];
 const upcomingEvents=[];
 
