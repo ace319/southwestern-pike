@@ -7,7 +7,7 @@ const chapterRoles=[
 {title:"Sergeant at Arms",name:"Jackson Hollis",image:"assets/leadership/jackson-hollis.jpg",description:"Supports chapter standards, meeting procedure, accountability, and an orderly chapter environment."},
 {title:"Health and Safety Officer",name:"Johannes Becker",image:"assets/leadership/johannes-becker.jpg",description:"Coordinates health, safety, and risk-management practices for chapter activities."},
 {title:"Membership Development Vice President",name:"John Paul Wrockloff",image:"assets/leadership/john-paul-wrockloff.jpg",description:"Guides member education, personal development, and preparation for active chapter membership."},
-{title:"External Vice President",name:"Luke Lawhon",image:"assets/leadership/luke-lawhon.jpg",description:"Leads campus relations, community outreach, public relations, and external partnerships."},
+{title:"External Vice President",name:"Jett Love",image:"assets/official/athletics/jett-love-2026.webp",description:"Leads campus relations, community outreach, public relations, and external partnerships."},
 {title:"House Manager",name:"Clay Elliott",image:"assets/leadership/clay-elliott.jpg",description:"Coordinates chapter-house operations, upkeep, and day-to-day residential needs."},
 {title:"Alumni Relations Chairman",name:"Dylan Knighten",image:"assets/official/athletics/dylan-knighten-2026.webp",description:"Strengthens lifelong connections between undergraduate members and Alpha Omicron alumni."},
 {title:"Historian",name:"William Sullivan",image:"assets/official/athletics/will-sullivan-golf.webp",description:"Preserves chapter records, photographs, traditions, and significant moments for future members."},
@@ -17,7 +17,6 @@ const chapterRoles=[
 {title:"Scholarship Chairman",name:"Jake Trailer",image:"assets/official/athletics/jake-trailer-2026.webp",description:"Supports academic achievement through resources, mentoring, recognition, and accountability."},
 {title:"New Member Educator",name:"Dyson Kwan",image:"assets/official/athletics/dyson-kwan-2026.webp",description:"Guides new members through chapter history, values, expectations, and the membership-development program."},
 {title:"Athletics Chairman",name:"Matthew Fair",image:"assets/official/athletics/matt-fair.webp",description:"Coordinates chapter athletics, intramural participation, and competitive opportunities."},
-{title:"Public Relations Chairman",name:"Jett Love",image:"assets/official/athletics/jett-love-2026.webp",description:"Shares chapter news, achievements, events, and community involvement across public channels."},
 {title:"Campus Involvement Chairman",name:"Amani Singh",image:"assets/official/athletics/amani-singh.webp",description:"Encourages members to participate in student organizations, campus programs, and leadership opportunities."},
 {title:"Social Chairman",name:"Jeremiah Wilkins",image:"assets/recruitment/jeremiah-wilkins.jpg",description:"Plans responsible social programming and coordinates event logistics with campus and chapter partners."},
 {title:"Social Chairman",name:"Sebastian Sanders",image:"assets/leadership/sebastian-sanders.webp",description:"Plans responsible social programming and coordinates event logistics with campus and chapter partners."}
