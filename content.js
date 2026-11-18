@@ -3,7 +3,7 @@ const chapterRoles=[
 {title:"President",name:"Bobby Strauss",image:"assets/leadership/bobby-strauss.jpg",description:"Sets chapter priorities, leads meetings, and represents Alpha Omicron on campus and within PIKE."},
 {title:"Internal Vice President",name:"Dylan Knighten",image:"assets/official/athletics/dylan-knighten-2026.webp",description:"Coordinates internal operations, committees, standards, and the brotherhood experience."},
 {title:"Secretary",name:"Ignacio Gonzalez",description:"Maintains chapter records, meeting minutes, calendars, and official chapter communication."},
-{title:"Treasurer",name:"Ferris Garcia",image:"assets/official/athletics/ferris-garcia.png",description:"Oversees budgeting, dues, financial planning, and responsible chapter stewardship."},
+{title:"Treasurer",name:"Carson Elder",image:"assets/official/athletics/carson-elder-2026.webp",description:"Oversees budgeting, dues, financial planning, and responsible chapter stewardship."},
 {title:"Sergeant at Arms",name:"Jackson Hollis",image:"assets/leadership/jackson-hollis.jpg",description:"Supports chapter standards, meeting procedure, accountability, and an orderly chapter environment."},
 {title:"Health and Safety Officer",name:"Johannes Becker",image:"assets/leadership/johannes-becker.jpg",description:"Coordinates health, safety, and risk-management practices for chapter activities."},
 {title:"Vice President of Membership Development",name:"William Sullivan",image:"assets/official/athletics/will-sullivan-golf.webp",description:"Guides member education, personal development, and preparation for active chapter membership."},
