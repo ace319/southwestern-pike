@@ -23,10 +23,7 @@ const chapterRoles=[
 {title:"Social Chairman",name:"Jeremiah Wilkins",image:"assets/recruitment/jeremiah-wilkins.jpg",description:"Plans responsible social programming and coordinates event logistics with campus and chapter partners."},
 {title:"Social Chairman",name:"Sebastian Sanders",image:"assets/leadership/sebastian-sanders.webp",description:"Plans responsible social programming and coordinates event logistics with campus and chapter partners."}
 ];
-const upcomingEvents=[
-{month:"NOV",day:"15",title:"Second Fall Recruitment · Bid Day",type:"Recruitment",location:"Alpha Omicron Chapter House",description:"Bid Day for Alpha Omicron’s second Fall 2026 recruitment round is Sunday, November 15. Connect with our recruitment team to learn more.",image:"assets/events/fall-recruitment-2026.png",link:"https://www.instagram.com/southwesternpike/"},
-{month:"APR",day:"12",title:"2026 Annual Crawfish Boil",type:"Philanthropy",location:"Pike House · Georgetown, Texas",description:"Sunday, April 12 from 1:30–4:00 PM, benefiting the Boys & Girls Club of Georgetown. Prepay $12 or pay $22 at the door.",image:"assets/events/crawfish-boil-2026.png",link:"https://www.instagram.com/southwesternpike/"}
-];
+const upcomingEvents=[];
 
 const recruitmentTeam=[
 {name:"Bobby Strauss",role:"Head of Recruitment",region:"Chapter-wide",instagram:"bobbystrauss44",phone:"214-914-7714",image:"assets/leadership/bobby-strauss.jpg"},
